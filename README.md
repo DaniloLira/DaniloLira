@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danilo Lira</h1>
-<h3 align="center">A iOS and Web developer passionate for innovative solutions</h3>
+<h3 align="center">An iOS and Web developer passionate for innovative solutions</h3>
 
 - 🔭 I’m currently working on [Online Store](https://github.com/DaniloLira/Loja-Online)
 
