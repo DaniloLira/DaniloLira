@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Liste](https://github.com/DaniloLira/Liste)
 
-- 🌱 I’m currently learning **Design Patterns,**
+- 🌱 I’m currently learning **Dependency Injection,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DaniloLira](https://github.com/DaniloLira)
 
