@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danilo Lira</h1>
 <h3 align="center">An iOS and Web developer passionate for innovative solutions</h3>
 
-- 🔭 I’m currently working on [Liste](https://github.com/DaniloLira/Liste)
+- 🔭 I’m currently working at XP Inc
 
 - 🌱 I’m currently learning **Dependency Injection,**
 
