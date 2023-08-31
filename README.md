@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at XP Inc
 
-- 🌱 I’m currently learning **Dependency Injection,**
+- 🌱 I’m currently learning **Flutter,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DaniloLira](https://github.com/DaniloLira)
 
