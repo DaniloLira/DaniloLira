@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DaniloLira](https://github.com/DaniloLira)
-
-- 📝 I regularly write articles on [https://danilo-lira01.medium.com](https://danilo-lira01.medium.com)
+- 👨‍💻 All of my projects are available at [https://www.danilolira.com](https://www.danilolira.com)
 
 - 💬 Ask me about **Swift**
 
